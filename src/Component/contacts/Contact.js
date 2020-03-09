@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
-import { Consumer } from '../Context'
+import { Consumer } from '../../Context'
 
 export default class Contact extends Component {
     state = {
-        show: true,
+        show: false,
     }
 
     handleclick = () => {
