@@ -2,8 +2,10 @@
   "name": "projetpersoreact",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gbasset.github.io/contactApp-React",
   "dependencies": {
     "bootstrap": "^4.4.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
@@ -11,6 +13,7 @@
     "uuid": "^7.0.2"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
