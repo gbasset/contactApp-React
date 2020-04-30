@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/contactApp-React/static/css/main.34de6062.chunk.css",
+    "main.js": "/contactApp-React/static/js/main.d932c427.chunk.js",
+    "main.js.map": "/contactApp-React/static/js/main.d932c427.chunk.js.map",
+    "runtime-main.js": "/contactApp-React/static/js/runtime-main.1fe82ee4.js",
+    "runtime-main.js.map": "/contactApp-React/static/js/runtime-main.1fe82ee4.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/contactApp-React/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.fbc9ee7d.chunk.js": "/contactApp-React/static/js/2.fbc9ee7d.chunk.js",
+    "static/js/2.fbc9ee7d.chunk.js.map": "/contactApp-React/static/js/2.fbc9ee7d.chunk.js.map",
+    "index.html": "/contactApp-React/index.html",
+    "precache-manifest.30e978d4499f1ca57728a7600f01e583.js": "/contactApp-React/precache-manifest.30e978d4499f1ca57728a7600f01e583.js",
+    "service-worker.js": "/contactApp-React/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/contactApp-React/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/contactApp-React/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fe82ee4.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.fbc9ee7d.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.d932c427.chunk.js"
+  ]
+}
