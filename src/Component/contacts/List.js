@@ -14,6 +14,7 @@ export default class List extends Component {
                 {value => {
                     return (
                         <>
+                            <h3 className="display-3 my-4">Nos contacts</h3>
                             {value.contacts.map(contact => (
                                 <Contact key={contact.id} id={contact.id} nom={contact.nom} email={contact.email} tel={contact.tel} supprimeClick={() => this.supprime(contact.id)} />
                             ))}
